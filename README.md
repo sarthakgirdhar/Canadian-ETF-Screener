@@ -13,7 +13,7 @@ Investing.com provides information like, 'Ticker Symbol', 'Last Price', 'Percent
 ### Skills demonstrated
 
  - Understanding the data.
- - Writing code in Python to scrape/extract data from Wikipedia and Investing.com
+ - Writing code in Python to scrape/extract data from Wikipedia and Investing.com.
  - Checking for data quality and performing data transformations.
  - Creating a data warehouse in Snowflake so that it's easier for the downstream users to perform data analysis.
  - Data analysis - answering stakeholder’s questions.
